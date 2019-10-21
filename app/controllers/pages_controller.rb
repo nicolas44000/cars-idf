@@ -29,4 +29,8 @@ class PagesController < ApplicationController
       :legal_notice
     )
   end
+
+def mention_cookies
+end
+
 end

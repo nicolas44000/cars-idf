@@ -11,6 +11,16 @@
 // about supported directives.
 //
 //
+
+//= require jquery
+//= require popper
+//= require bootstrap-sprockets
+//= require custom
+//= require lockfixed/lockfixed.min
+//= require counterup/counterup.min
+//= require waypoints/waypoints.min
+//= require superfish/superfish
+//= require stickyjs/sticky
 //= require cookieconsent
 //= require rails-ujs
 //= require activestorage

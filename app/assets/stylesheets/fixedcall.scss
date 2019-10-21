@@ -1,0 +1,34 @@
+#myfixedCall {
+    position: fixed;
+    bottom: 50%;
+    right: 0px;
+}
+#myfixedCall
+    ul {
+  list-style:none;
+    padding: 0;
+}
+#myfixedCall
+    ul li{
+  display: flex;
+    margin: 1px;
+}
+#myfixedCall
+    ul li a {
+    background-color: #199EB8;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 3px;
+    border-color: #199EB8;
+    min-width: 60px;
+    text-align: center;
+}
+#myfixedCall
+    ul li a:hover {
+    background-color: #000;
+    border-color: #000; 
+}
+#myfixedCall
+    ul li a i {
+    font-size: 30px;
+};
