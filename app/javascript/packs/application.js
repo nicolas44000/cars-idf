@@ -17,13 +17,6 @@
 
 window.Noty = require("noty")
 
-import 'bootstrap/dist/js/bootstrap.bundle'
-import 'jquery/dist/jquery'
-import 'popper.js/dist/esm/popper'
-import 'packs/custom'
-import 'packs/plugins/lockfixed/lockfixed.min'
-import 'packs/plugins/superfish/superfish'
-import 'packs/plugins/stickyjs/sticky'
 
 
 
